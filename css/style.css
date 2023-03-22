@@ -11,3 +11,13 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#email-list{
+    padding: 20px 0;
+}
+
+
+#email{
+    text-align: center;
+
+    padding: 2px 0 ;
+}
